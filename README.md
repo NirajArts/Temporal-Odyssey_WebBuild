@@ -1,11 +1,10 @@
-## Play!
 <!-- Big Play Button -->
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://link-to-your-game.com" target="_blank">
-    <img src="https://img.itch.zone/aW1nLzE4NDgzMzk1LmpwZw==/original/KyzzhI.jpg" alt="Play Now" style="width:400px;">
+  <a href="https://temporal-odyssey-build.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7749d834-d63e-4534-88d4-ea6b86844a2a" alt="Play Now" style="width:200px;">
   </a>
 </div>
-
+<hr>
 <!-- Main Header & Subtitle -->
 <h1 style="text-align: center; margin-top: 20px;">Temporal Odyssey (Puzzle Adventure)</h1>
 <h3 style="text-align: center; font-style: italic;">A Journey Through Twisted Time and Space—Can You Restore Balance to the Universe?</h3>
