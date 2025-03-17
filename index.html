@@ -26,17 +26,14 @@
     </div>
     <div id="unity-fullscreen-button" style="display: none;"></div>
 
-    <!-- Include main script for WebGL build -->
-    <script src="aoconnect.bundle.js"></script>
-
     <script>
       const hideFullScreenButton = "";
       const buildUrl = "Build";
-      const loaderUrl = buildUrl + "/Temporal Odyssey WebGl.loader.js";
+      const loaderUrl = buildUrl + "/Temporal Odyssey.loader.js";
       const config = {
-        dataUrl: buildUrl + "/Temporal Odyssey WebGl.data",
-        frameworkUrl: buildUrl + "/Temporal Odyssey WebGl.framework.js",
-        codeUrl: buildUrl + "/Temporal Odyssey WebGl.wasm",
+        dataUrl: buildUrl + "/Temporal Odyssey.data",
+        frameworkUrl: buildUrl + "/Temporal Odyssey.framework.js",
+        codeUrl: buildUrl + "/Temporal Odyssey.wasm",
         streamingAssetsUrl: "StreamingAssets",  // Path to access the StreamingAssets folder
         companyName: "NirajArts",
         productName: "Temporal Odyssey",
@@ -80,6 +77,7 @@
           progressBarEmpty.style.display = "";
           progressBarFull.style.width = `${100 * progress}%`;
         }).then((unityInstance) => {
+          nethereumUnityInstance = unityInstance;
           loadingCover.style.display = "none";
           if (canFullscreen) {
             if (!hideFullScreenButton) {
