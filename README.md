@@ -8,7 +8,6 @@
 <!-- Main Header & Subtitle -->
 <h1 style="text-align: center; margin-top: 20px;">Temporal Odyssey (Puzzle Adventure)</h1>
 <h3 style="text-align: center; font-style: italic;">A Journey Through Twisted Time and Space—Can You Restore Balance to the Universe?</h3>
-<p style="text-align: center; font-weight: bold;">Winner of the GameWave X IGDC Game Jam!</p>
 
 <hr>
 
