@@ -6,7 +6,7 @@
 </div>
 <hr>
 <!-- Main Header & Subtitle -->
-<h1 style="text-align: center; margin-top: 20px;">Temporal Odyssey (Puzzle Adventure)</h1>
+<h1 style="text-align: center; margin-top: 20px;">Astrovia (formerly known as Temporal Odyssey) – Puzzle Adventure</h1>
 <h3 style="text-align: center; font-style: italic;">A Journey Through Twisted Time and Space—Can You Restore Balance to the Universe?</h3>
 
 <hr>
