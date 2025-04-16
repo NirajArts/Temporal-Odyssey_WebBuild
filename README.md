@@ -1,6 +1,6 @@
 <!-- Big Play Button -->
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://temporal-odyssey-build.vercel.app/" target="_blank">
+  <a href="https://play.astrovia.xyz/" target="_blank">
     <img src="https://github.com/user-attachments/assets/7749d834-d63e-4534-88d4-ea6b86844a2a" alt="Play Now" style="width:200px;">
   </a>
 </div>
